@@ -1,0 +1,26 @@
+
+# FastAPI
+fastapi[standard]
+
+# Database
+sqlalchemy
+asyncmy
+alembic
+
+# Validation and configuration
+pydantic
+pydantic-settings
+email-validator
+
+# Environment variables
+python-dotenv
+
+# Authentication (we'll use these in Phase 3)
+PyJWT[crypto]
+pwdlib[argon2]
+python-multipart
+
+# Testing
+pytest
+pytest-asyncio
+httpx
