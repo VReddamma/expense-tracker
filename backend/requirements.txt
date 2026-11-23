@@ -3,7 +3,7 @@
 fastapi[standard]
 
 # Database
-sqlalchemy
+sqlalchemy[asyncio]
 asyncmy
 alembic
 
